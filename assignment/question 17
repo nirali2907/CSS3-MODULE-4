@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!--Question:-17
+           • What is the meaning of the CSS selector?
+
+         Answer:-
+         
+           ->  A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the
+         browser which HTML elements should be selected to have the CSS property values inside the rule applied to them.
+
+           -> CSS selectors are used to "find" (or select) the HTML elements you want to style.
+
+           :-> We can divide CSS selectors into five categories:
+
+ 
+           # Simple selectors (select elements based on name, id, class)
+           # Combinator selectors (select elements based on a specific relationship between them)
+           # Pseudo-class selectors (select elements based on a certain state)
+           # Pseudo-elements selectors (select and style a part of an element)
+           # Attribute selectors (select elements based on an attribute or attribute value)
+
+     -->
+    
+</body>
+</html>

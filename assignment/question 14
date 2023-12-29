@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-14
+           • What is embedded style sheets?
+
+         Answer:-
+
+              -> Embedded Stylesheet: It allows you to define styles for a particular HTML document as a whole in one
+             place. This is done by embedding the <style></style> tags containing the CSS properties in the head of your
+             document.
+
+              -> Embedded Style Sheets is a style sheet where designers can embed information of the style sheet in an
+             HTML document by making use of the tags are done within head section of HTML. The syntax for embedded style
+             sheets has no such exception.
+
+
+
+        -->
+    
+</body>
+</html>

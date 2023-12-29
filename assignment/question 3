@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    
+   <!-- Question:-3
+            • What is the difference between CSS2 and CSS3?
+
+        Answer:-
+           
+           ~>   CSS3 has compatibility with external font styles through google fonts and typecast. It was not possible with
+        earlier CSS1 and CSS2. The selectors in CSS3 has increased while CSS1 and CSS2 only had simple selectors.
+
+            ~> CSS3 features the Selector concept, whereas CSS does not. Thus, rather than applying classes or IDs for 
+        creating styles, developers can use CSS3 to choose HTML elements in place of IDs and classes as attributes to be
+        applied to CSS styles.
+
+           ~>  There is no difference. Just like HTML and HTML5. CSS3 is simply the newer version of CSS which has more 
+        advanced features than earlier releases. HTML5 simply is HTML and CSS3 is simply CSS. Both HTML5 and 
+        CSS3 became marketing buzzwords way above and beyond the technologies that they are referring.
+ 
+
+
+-->
+
+</body>
+</html>

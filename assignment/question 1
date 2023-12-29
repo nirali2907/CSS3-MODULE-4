@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    
+    <!-- Question:-
+             • What are the benefits of using CSS?
+
+         Answer:-
+         
+            * Benefits of using CSS:-
+               1) Faster Page Speed.
+               2)  CSS not only makes web pages easy on the eye, it also allows for user-friendly 
+                  formatting.
+               3) Quicker Development Time. 
+               4) Easy Formatting Changes. 
+               5) Compatibility Across Devices.
+
+
+     -->
+
+</body>
+</html>

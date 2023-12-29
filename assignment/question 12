@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-12
+           • How to maintain the CSS specifications?
+
+         Answer:-
+
+           -> The CSS (Cascading Style Sheets) specifications are maintained by the World Wide Web Consortium (W3C). The 
+         W3C is an international standards organization that works to develop and promote web standards. The CSS 
+         specifications are a set of standards that define how CSS should be used to style HTML documents.
+
+           -> The World Wide Web Consortium (W3C), an international organization, is the primary standards body for the 
+         World Wide Web. A consortium founded by Tim Berners-Lee in 1994 and led by him, it brings together full-time 
+         staff from member organizations to work on developing World Wide Web standards.
+
+           -> You will learn CSS fundamentals such as the box model, cascade and specificity, flexbox, grid, and z-index,
+         in addition to CSS fundamentals. Along with these fundamentals, you will learn about functions, color types, 
+         gradient functions, logical properties, and inheritance, all of which will help you become a well-rounded front-
+         end developer who is ready to work on any user interface.
+
+
+
+
+        -->
+    
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question-12
+           • How to maintain the CSS specifications?
+
+         Answer:-
+
+           -> The CSS (Cascading Style Sheets) specifications are maintained by the World Wide Web Consortium (W3C). The 
+         W3C is an international standards organization that works to develop and promote web standards. The CSS 
+         specifications are a set of standards that define how CSS should be used to style HTML documents.
+
+           -> The World Wide Web Consortium (W3C), an international organization, is the primary standards body for the 
+         World Wide Web. A consortium founded by Tim Berners-Lee in 1994 and led by him, it brings together full-time 
+         staff from member organizations to work on developing World Wide Web standards.
+
+           -> It is possible to write CSS by itself, as well as within an HTML file. Insert the HTML file into it.
+
+           -> You will learn CSS fundamentals such as the box model, cascade and specificity, flexbox, grid, and z-index,
+         in addition to CSS fundamentals. Along with these fundamentals, you will learn about functions, color types, 
+         gradient functions, logical properties, and inheritance, all of which will help you become a well-rounded front-
+         end developer who is ready to work on any user interface.
+
+
+
+
+        -->
+    
+</body>
+</html>

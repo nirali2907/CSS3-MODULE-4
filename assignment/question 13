@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-13
+           • What are the ways to integrate CSS as a web page?
+
+         Answer:-
+         
+            -> CSS can be added to HTML documents in 3 ways:
+
+            # Inline - by using the style attribute inside HTML elements
+
+                   -> An inline CSS is used to apply a unique style to a single HTML elment.
+
+
+
+            # Internal - by using a <style> element in the <head> section
+
+                   -> An internal CSS is used to define a style for a single HTML page.
+
+                   -> An internal CSS is defined in the <head> section of an HTML page, within a <style> element.
+
+
+
+            # External - by using a <link> element to link to an external CSS file
+
+                   -> An external style sheet is used to define the style for many HTML pages.
+
+                   -> To use an external style sheet, add a link to it in the <head> section of each HTML page:
+
+
+    
+        -->
+    
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-11
+            • How to center block elements using CSS1?
+
+         Answer:-
+
+         
+           -> To centrally align the block elements, we can simply make use of the <center> tag. All the elements within the <center> tag will
+         be centrally aligned.
+
+           -> The way to do that is to set the margins to 'auto'. This is normally used with a block of fixed width, because if the block 
+         itself is flexible, it will simply take up all the available width. Here is an example: P.blocktext { margin-left: auto; margin-right:
+         auto; width: 8em } .
+
+           -> In this article, we will see how to make block-level elements to the center using CSS. 
+
+
+           Step 1: Define the external width – We need to define the external width. Block-level elements have the default width of 100% of the
+         webpage, so for centering the block element, we need space around it. So for generating the space, we are giving it a width.
+ 
+           Step 2: Set the left-margin and the right-margin of the element to auto – Since we produced a remaining space by providing external 
+         width so now we need to align that space properly that’s why we should use margin property. Margin is a property that tells how to
+         align a remaining space.
+
+
+
+    -->
+    
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-15
+            • What are the external style sheets?
+
+         Answer:- 
+
+             -> An external style sheet is a separate CSS file that can be accessed by creating a link within the head 
+         section of the webpage. Multiple webpages can use the same link to access the stylesheet. 
+
+             -> External style sheets are created in separate documents with a .css extension. An external style sheet is
+         simply a listing of CSS rules. It cannot contain HTML tags. The tag, which goes in the head of an HTML page, is
+         used to link to an external style sheet. 
+
+             -> An external style sheet is simply a listing of CSS rules. It cannot contain HTML tags. The <link> tag, 
+         which goes in the head of an HTML page, is used to link to an external style sheet. There is no limit to the
+         number of external style sheets a single HTML page can use.
+
+        -->
+    
+</body>
+</html>

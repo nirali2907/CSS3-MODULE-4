@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-10
+            • Why should background and color be used as separate properties?
+
+       #  Answer:-
+            
+            -> There are two reasons behind this: It enhances the legibility of style sheets. The background property is a complex property in 
+         CSS, and if it is combined with color, the complexity will further increase.
+
+            -> background is a shorthand property that allows you to set all the background properties  in one  line. On the other hand, background-color property sets the color of the background of an element.
+
+            -> The background-color property sets the background color of an element. The background of an element is the total size of the 
+         element, including padding and border (but not the margin). Tip: Use a background color and a text color that makes the text easy to
+         read.
+            
+            -> So the background property can be used as a convenient short-hand that can apply multiple declarations in one line, and save you
+         many lines of code. Declaration = CSS property + value. The background-color property, on the other hand, can only set the background 
+         color of an elment.
+
+
+        -->
+    
+</body>
+</html>

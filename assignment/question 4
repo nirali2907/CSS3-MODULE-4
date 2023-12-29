@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-4
+          • Name a few CSS style components:-
+
+         Answer:-
+         
+        # The major components of a CSS style are as follows:
+               -> Selecter: HTML element name, id name, class name.
+               -> Property: It's like an attribute such as background color,font-size,position,text-align,color,border etc.
+               -> Values: Which defines property or values allocate for properties.
+
+        # 4 components of CSS:
+               -> The components of css style are:
+               -> Selector: class name, id name or element name that is target.
+               -> Attribute: name of the attribute you want to style for example border, color,background, position etc.
+               -> Value of Property: value that will be assigned to attribute.
+               
+        #  These rules have 3 parts: a selector, a property, and a value. You
+         don't need to remember this in order to code CSS.
+
+                     
+    -->
+    
+</body>
+</html>

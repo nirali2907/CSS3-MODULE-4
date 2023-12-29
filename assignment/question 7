@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-7
+            .. How can image repetition of the backup be controlled?
+
+       #  Answer:-
+             
+             ->  This task can be achieved by using the background-repeat property that will help us to control the
+             repetition of the image. The background-repeat property in CSS is used to repeat the background image both
+             horizontally and vertically. It also decides whether the background image will be repeated or not.
+
+             -> To make a background image not repeat in HTML, specify no-repeat in the background-repeat property or the
+             background shorthand property. The background image is set to 'no-repeat' using the 'background-repeat'
+             property.
+
+             -> The background-repeat CSS property sets how background images are repeated. A background image can be 
+             repeated along the horizontal and vertical axes.
+
+        -->
+    
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-9
+           • Which property controls the image scroll in the background?
+
+       #  Answer:-
+           -> The background-attachment property sets whether a background image scrolls with the rest of the page.
+
+           -> The background-attachment property in CSS is used to specify the kind of attachment of the background image with respect to its
+         container. It can be set to scroll or make it remain fixed. 
+
+           -> Setting the value to scroll , the overflow is clipped and a scrollbar is added to scroll inside the box. Note that this will add
+         a scrollbar both horizontally and vertically (even if you do not need it): You can use the overflow property when you want to have 
+         better control of the layout.
+
+
+        -->
+    
+</body>
+</html>

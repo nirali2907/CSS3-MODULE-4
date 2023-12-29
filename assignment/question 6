@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question-:6
+            • How can the background color of an element be changed?
+
+       #  Answer:-
+               -> Approach: The background-color property of CSS is used to set the background of an element. We can set 
+              background color by selecting the element by its class name of id name and then apply the background-color 
+              property on it to set the background color.
+   
+               -> To add background color in HTML, use the CSS background-color property. Set it to the color name or code
+              you want and place it inside a style attribute. Then add this style attribute to an HTML element, like a 
+              table, heading, div.
+
+        -->
+    
+</body>
+</html>

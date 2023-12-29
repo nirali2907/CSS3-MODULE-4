@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- Question:-5
+             • What do you understand by CSS opacity?
+
+         Answer:-
+         
+         ->    The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind 
+        aelement is hidden.
+
+         ->     The opacity property sets the opacity level for an element. The opacity-level describes the transparency-
+        level, where 1 is not transparent at all, 0.5 is 50% 
+
+         ->     Opacity is measured by how much light passes through an object. Objects with lower opacity allow more
+          light to pass through them, therefore becoming more see-through. The more solid an object is the less light 
+          that can pass through it translates to a higher opacity.
+
+       #Example:-
+
+        #  color opacity:
+          ->     Opacity. The CSS opacity property sets the opacity for the whole element (both background color and text 
+          will be opaque/transparent). The opacity property value must be a number between 0.0 (fully transparent) and 
+          1.0 (fully opaque).
+
+   
+        # Image Transparency with the CSS Opacity Property:
+          ->      The opacity property takes values from 0.0 to 1.0 , with 1 being the default value for all elements. 
+          The lower the value, the more transparent. So if an element is given an opacity of 0.
+          
+
+
+    -->
+    
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!--Question:-2
+           • What are the disadvantages of CSS?
+
+        Answer:-
+            * Disadvantages of CSS
+               -> Confusion due to many CSS levels. Beginners are more vulnerable to this issue. 
+               -> Cross-Browser Issues. Different browsers work differently.
+               -> Security Issues. Security is important in today's world driven by technology and data.
+
+            * Disadvantages of External CSS:-
+               -> Your pages may not be rendered correctly until the external CSS is loaded.
+               -> Uploading or linking to multiple CSS files can increase your site's download time.
+ 
+             
+
+     -->
+    
+</body>
+</html>
